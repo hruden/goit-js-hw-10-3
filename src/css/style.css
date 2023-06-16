@@ -1,0 +1,11 @@
+.cat-info {
+  display: flex;
+  gap: 20px;
+  padding-top: 20px;
+}
+.breed-select {
+  margin: 24px auto 24px auto;
+  width: 300px;
+  padding: 10px;
+  border-radius: 8px;
+}
